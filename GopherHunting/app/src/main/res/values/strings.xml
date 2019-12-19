@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Gopher Hunting</string>
+    <string name="mode1">Guess By Guess</string>
+    <string name="mode2">Continuous</string>
+</resources>
